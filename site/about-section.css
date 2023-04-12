@@ -1,0 +1,123 @@
+/*** 
+=============================================
+    About Style1 Area Css   
+=============================================
+***/
+.ABOUT-style1-area {
+    position: relative;
+    display: block;
+    padding: 120px 0 120px;
+    background: white;
+
+}
+h1 {
+      
+    text-align: right center;
+    font-size: 50px;
+    margin-top: 00px;
+    color: red;
+  }
+  .img1 {
+    
+    margin-left: 600px;
+   
+  }
+  .img2 {
+    
+    margin-left: 900px;
+   
+  }
+  .img3 {
+    padding-top: 50;
+    margin-right: 900px;
+    filter: brightness(90) saturate(100%) invert(25%) sepia(200%) saturate(500%) hue-rotate(350deg) brightness(150%) contrast(400%);
+
+  }
+  .img4 {
+    margin-top: -450;
+    margin-right: 900px;
+    filter: brightness(90) saturate(100%) invert(25%) sepia(200%) saturate(500%) hue-rotate(350deg) brightness(150%) contrast(400%);
+  
+  }
+  .img5 {
+    padding-top: 105;
+    margin-right: 900px;
+    filter: brightness(90) saturate(100%) invert(25%) sepia(200%) saturate(500%) hue-rotate(350deg) brightness(150%) contrast(400%);
+ 
+  }
+  h2 {
+    text-align: left ;
+    font-size: 34px;
+    margin-left: 140px;
+    margin-top: -500px;
+    color: black;
+  }
+  h3 {
+    text-align:left;
+    font-size: 34px;
+    margin-left: 80px;
+    margin-top: -110px;
+    color: black;
+  }
+  p1 {
+    text-align:left;
+    font-size: 20px;
+    margin-left: 50px;
+    color: gray;
+  }
+  h4 {
+    text-align:  center ;
+    font-size: 90px;
+    margin-left: 1000px;
+    margin-top: -100px;
+    color: red;
+  }
+  h5 {
+    text-align:left;
+    font-size: 25px;
+    margin-left: 1130px;
+    margin-top: -60px;
+    color: black;
+  }
+  h6 {
+    text-align:left;
+    font-size: 25px;
+    margin-left: 1100px;
+    margin-top: -40px;
+    color: black;
+  }
+  h7 {
+    text-align: left ;
+    font-size: 34px;
+    margin-left: 140px;
+    margin-top: -500px;
+    color: black;
+  }
+    
+  .session1 {
+
+    text-align: left ;
+    font-size: 20px;
+    margin-left: 70px;
+    color: black;
+    margin-top: -39px;
+  
+  }
+  .session2 {
+
+    text-align: left ;
+    font-size: 20px;
+    margin-left: 70px;
+    color: black;
+    margin-top: -39px;
+  
+  }
+  .session3 {
+
+    text-align: left ;
+    font-size: 20px;
+    margin-left: 70px;
+    color: black;
+    margin-top: -39px;
+  
+  }

@@ -1,0 +1,63 @@
+
+/* Style pour le titre principal */
+h1 {
+  font-size: 70px;
+  text-align: center;
+  margin-top: 50px;
+  color: red;
+}
+
+/* Style pour les sous-titres */
+h2 {
+  font-size: 20px;
+  text-align: center;
+  margin: 40px;
+}
+h3 {
+  font-size: 32px;
+  text-align: center;
+  margin: 40px;
+}
+h7 {
+  padding-right: 50px;
+  font-size: 20px;
+  text-align: center;
+  margin: 40px;
+  margin-left: 150px;
+}
+
+/* Styles pour les icônes */
+img {
+
+  padding-right: 50px;
+  width: 70px;
+  height: 70px;
+  margin-top: 50px;
+  filter: brightness(90) saturate(100%) invert(25%) sepia(200%) saturate(500%) hue-rotate(350deg) brightness(150%) contrast(400%);
+}
+
+/* Styles pour les liens */
+a {
+  display: inside;
+  text-align: center;
+  
+  color: gray;
+}
+/* Style pour le titre */
+h4,h5,h6{
+  font-size: 16px;
+  padding-right: 50px;
+  text-align: center;
+  
+}
+/* Styles pour les icônes et les liens dans une div centrée */
+div {
+  padding-left: 50px;
+  display:inline-table;
+  justify-content: center;
+  align-items: center;
+  margin-left: 180px;
+  margin-top: 100px;
+}
+
+  
